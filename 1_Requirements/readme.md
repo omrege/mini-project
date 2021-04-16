@@ -36,3 +36,23 @@ The cost will depend on what components the calculator is built and it's speed.
 ### How:
 * The project asks the user to enter integer parameters and generates the output based ont the input parameters.
 
+## Detail requirements
+## High Level Requirements:
+ID	Description	Category	status
+H001	A user should be able to perform arithmetic operations	Technical	Implemented
+H002	A user should be able to perform scientific operations	Technical	Implemented
+H003	A user should be able to perform Trigonometric operations	Technical	Implemented
+
+Low level Requirements:
+ID	Description	HLR ID	status
+L001	When user performs the ' + ' operation the result should be sum of two numbers	H001	Implemented
+L002	When user performs the ' - ' operation the result should be subtraction of two numbers	H001	Implemented
+L003	When user performs the ' * ' operation the result should be multiplication of two numbers	H001	Implemented
+L004	When user performs the ' / ' operation the result should be divison of two numbers	H001	Implemented
+L005	When user performs the ' LOG ' operation the user should get desired result of N number	H002	Implemented
+L006	When user performs the ' POWER ' operation the user should get desired result of (n^n) numbers	H002	Implemented
+L007	When user performs the ' SQUARE ROOT ' operation the user should get desired result of N number	H002	Implemented
+L008	When user performs the ' SIN ' operation the user should get desired result of N number	H003	Implemented
+L009	When user performs the ' COS ' operation the user should get desired result of N number	H003	Implemented
+L010	When user performs the ' TAN ' operation the user should get desired result of N number	H003	Implemented
+
