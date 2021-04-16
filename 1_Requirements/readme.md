@@ -38,8 +38,8 @@ The cost will depend on what components the calculator is built and it's speed.
 
 ## Detail requirements
 ## High Level Requirements:
-| ID	| Description |Category                                       | status|
-| ----|-------------|----------|------------------------------------
+| ID	| Description                                             | Category | status   |
+| ----|---------------------------------------------------------|----------|----------|
   H001	A user should be able to perform arithmetic operations	  Technical	Implemented
   H002	A user should be able to perform scientific operations	  Technical	Implemented
   H003	A user should be able to perform Trigonometric operations	Technical	Implemented
