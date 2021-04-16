@@ -26,10 +26,13 @@ The cost will depend on what components the calculator is built and it's speed.
 
 ### What:
 * The calculator performs calculations faster as compared to manual method.
+
 ### When:
 * The project can be used at any point of time.
+
 ### Where:
-This project can be used in schools, colleges, etc for mathematical calculations.
+* This project can be used in schools, colleges, etc for mathematical calculations.
+
 ### How:
-The project asks the user to enter integer parameters and generates the output based ont the input parameters.
+* The project asks the user to enter integer parameters and generates the output based ont the input parameters.
 
