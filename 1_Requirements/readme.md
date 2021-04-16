@@ -48,6 +48,6 @@ The cost will depend on what components the calculator is built and it's speed.
 | ID	| Description                                             | status   |
 |-----|---------------------------------------------------------|----------|
 | L001|	The addition('+') operation is performed|	Implemented|
-| H002|	The subtraction('-') operation is performed| Implemented|
-| H003|	The multiplication(' * ') operation is performed |Implemented|
-| H004|	The division('/') operation is performed |Implemented|
+| L002|	The subtraction('-') operation is performed| Implemented|
+| L003|	The multiplication(' * ') operation is performed |Implemented|
+| L004|	The division('/') operation is performed |Implemented|
