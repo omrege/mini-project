@@ -36,7 +36,9 @@ The cost will depend on what components the calculator is built and it's speed.
 ## How:
 * The project asks the user to enter integer parameters and generates the output based on the input parameters.
 
+
 ## Detail requirements
+
 ## High Level Requirements:
 | ID	| Description                                             | Category | status   |
 |-----|---------------------------------------------------------|----------|----------|
