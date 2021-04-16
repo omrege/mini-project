@@ -34,15 +34,15 @@ The cost will depend on what components the calculator is built and it's speed.
 * This project can be used in schools, colleges, etc for mathematical calculations.
 
 ### How:
-* The project asks the user to enter integer parameters and generates the output based ont the input parameters.
+* The project asks the user to enter integer parameters and generates the output based on the input parameters.
 
 ## Detail requirements
 ## High Level Requirements:
 | ID	| Description                                             | Category | status   |
 |-----|---------------------------------------------------------|----------|----------|
 | H001|	A user should be able to perform arithmetic operations	| Technical|	Implemented|
-| H002|	A user should be able to perform scientific operations	| Technical|	Implemented|
-| H003|	A user should be able to perform Trigonometric operations|Technical|	Implemented|
+| H002|	Gcc compiler with Makefile 	| Technical|	Implemented|
+| H003|	Application that allows user to make a choice of operation to be performed|Technical|	Implemented|
 
 Low level Requirements:
 ID	Description	HLR ID	status
