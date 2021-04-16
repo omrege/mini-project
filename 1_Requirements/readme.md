@@ -45,15 +45,9 @@ The cost will depend on what components the calculator is built and it's speed.
 | H003|	Application that allows user to make a choice of operation to be performed|Technical|	Implemented|
 
 Low level Requirements:
-ID	Description	HLR ID	status
-L001	When user performs the ' + ' operation the result should be sum of two numbers	H001	Implemented
-L002	When user performs the ' - ' operation the result should be subtraction of two numbers	H001	Implemented
-L003	When user performs the ' * ' operation the result should be multiplication of two numbers	H001	Implemented
-L004	When user performs the ' / ' operation the result should be divison of two numbers	H001	Implemented
-L005	When user performs the ' LOG ' operation the user should get desired result of N number	H002	Implemented
-L006	When user performs the ' POWER ' operation the user should get desired result of (n^n) numbers	H002	Implemented
-L007	When user performs the ' SQUARE ROOT ' operation the user should get desired result of N number	H002	Implemented
-L008	When user performs the ' SIN ' operation the user should get desired result of N number	H003	Implemented
-L009	When user performs the ' COS ' operation the user should get desired result of N number	H003	Implemented
-L010	When user performs the ' TAN ' operation the user should get desired result of N number	H003	Implemented
-
+| ID	| Description                                             | status   |
+|-----|---------------------------------------------------------|----------|
+| L001|	The addition('+') operation is performed|	Implemented|
+| H002|	The subtraction('-') operation is performed| Implemented|
+| H003|	The multiplication(' * ') operation is performed |Implemented|
+| H004|	The division('\') operation is performed |Implemented|
