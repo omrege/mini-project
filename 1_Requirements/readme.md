@@ -20,6 +20,9 @@ The cost will depend on what components the calculator is built and it's speed.
 
 ## SWOT analysis
 
+![image](https://user-images.githubusercontent.com/81291326/114978784-5fdd5580-9ea7-11eb-9a35-ef488a0e563e.png)
+
+
 ## 4W's and 1'H
 ## Who:
 * The project can be used by students and people to perform calculations
