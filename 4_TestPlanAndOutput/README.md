@@ -5,3 +5,4 @@
 | T01|	Performing addition operation	| SUCCESS|	SUCCESS| Pass|
 | T02|	Performing subtraction operation 	| SUCCESS|	SUCCESS|Pass|
 | T03|	Performing multiplication operation|SUCCESS|SUCCESS|Pass|
+| T04|	Performing division operation|SUCCESS|SUCCESS|Pass|
